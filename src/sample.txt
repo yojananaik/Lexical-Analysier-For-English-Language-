@@ -1,0 +1,8 @@
+Proper Nouns like Stanford University and OpenAI are organizations. 
+Nouns are essential for communication. Noun (Plurals), such as books, cars, and houses, are common in our lives. 
+Possessive Pronouns,like mine and yours, indicate ownership. Verbs (Base Form) describe actions, like run, walk, and eat. 
+Verb (Non-3rd Person Singular) is used when she walks. Verb (3rd Person Singular) he walks slowly. 
+Verb (Past Tense) I walked to the store. Verb (Gerund/Present Participle) walking in the park. Verb (Past Participle) 
+has walked a long distance. Adjectives make your writing colorful. 
+Adverbs describe actions further. Numbers (e.g., 123, 456) help in counting. Symbols like @ and # have special meanings. 
+Prepositions link words together. Punctuation marks, such as ., !, and ;, are crucial. Special Characters (@#$%&*()) are used in various contexts. Operators like ==, !=, <, >, <=, >=, &&, ||, ^, &, |, ^, ~ play a role in programming. Invalid punctuation marks, like , word., can lead to errors.
