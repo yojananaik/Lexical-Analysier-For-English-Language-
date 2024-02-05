@@ -50,7 +50,7 @@ The program consists of three phases:
 
 ## Team Members
 
-- [Yojana Naik](https://github.com/yojananaik)
+- [Yashashree Bedmutha](https://github.com/yashhashhrrreee)
 - [Ayush Karnawat](https://github.com/akprettyboi)
 
 ##Feel free to contribute or report issues!
