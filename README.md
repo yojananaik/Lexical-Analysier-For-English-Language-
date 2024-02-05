@@ -52,4 +52,5 @@ The program consists of three phases:
 
 - [Yojana Naik](https://github.com/yojananaik)
 - [Ayush Karnawat](https://github.com/akprettyboi)
-Feel free to contribute or report issues!
+
+##Feel free to contribute or report issues!
