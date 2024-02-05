@@ -48,5 +48,8 @@ The program consists of three phases:
 2. **Phase 2:** Extracting tokens from the text input and classifying them into categories based on part-of-speech tags. Results are displayed in the output text box.
 3. **Phase 3:** Displaying the count and list of punctuation tokens and operator tokens.
 
+## Team Members
 
+- [Yojana Naik](https://github.com/yojananaik)
+- [Ayush Karnawat](https://github.com/akprettyboi)
 Feel free to contribute or report issues!
